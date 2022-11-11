@@ -5,7 +5,7 @@
 </p>
 
 ### About the project
-Silvermint is an open source blockchain protocol designed to support a network that is fast, secure, and scalable to support global scale financial transactions and decentralized applications. Silvermint is a product of the Silvermint Corporation.
+Silvermint is an open source blockchain protocol designed to support a network that is fast, secure, and scalable to support global scale financial transactions and decentralized applications. 
 
 ### Find the code
 The public repo is available in GitLab, https://gitlab.com/silvermint.
