@@ -12,5 +12,3 @@ The public repo is available in GitLab, https://gitlab.com/silvermint.
 
 ### Learn more
 Learn more about the project at https://silvermint.net/.
-
-### Join the community
